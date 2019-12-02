@@ -1,0 +1,9 @@
+{
+  "name": "msgpack",
+  "version": "0.0.1",
+  "description": "core messagepack implementation in js",
+  "main": "index.js",
+  "repository": "git@github.com:davalapar/msgpack.git",
+  "author": "davalapar <davalapar@gmail.com>",
+  "license": "MIT"
+}
